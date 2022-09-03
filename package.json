@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "type": "module",
   "bin": "./was.mjs",
+  "author": "huozhi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:huozhi/was-das.git"
+  },
   "files": [
     "*.mjs",
     "dict"

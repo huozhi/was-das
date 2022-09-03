@@ -4,10 +4,14 @@
 
 ### Usage
 
+```
+npm i -g was-das
+```
+
 Searching German words with English translation
 
 ```
-was-dash gehen
+was-das gehen
 
 Query "gehen" in German...
 
@@ -22,7 +26,7 @@ weggehen go away
 Searching English words with German translation
 
 ```
-was-dash tree
+was-das tree
 
 Query "tree" in English...
 
