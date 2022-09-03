@@ -1,17 +1,17 @@
 # Was Das
 
-`was-das` is a tiny dictionary for translating words between German and English, built it for learning and reviewing the words I learned.
+`wasdas` is a tiny dictionary for translating words between German and English, built it for learning and reviewing the words I learned.
 
 ### Usage
 
 ```
-npm i -g was-das
+npm i -g wasdas
 ```
 
 Searching German words with English translation
 
 ```
-was-das gehen
+wasdas gehen
 
 Query "gehen" in German...
 
@@ -26,7 +26,7 @@ weggehen go away
 Searching English words with German translation
 
 ```
-was-das tree
+wasdas tree
 
 Query "tree" in English...
 
