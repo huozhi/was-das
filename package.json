@@ -1,0 +1,17 @@
+{
+  "name": "wasdas",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": "./was.mjs",
+  "files": [
+    "*.mjs",
+    "dict"
+  ],
+  "engines": {
+    "node": ">= 16.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fuse.js": "6.6.2"
+  }
+}
